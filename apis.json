@@ -1,0 +1,78 @@
+{
+    "name": "Tendril",
+    "description": "With more than a decade of expertise in energy and behavioral science, Tendril is applying its unique software platform to change the way energy products and services are marketed and consumed.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/257-tendril.jpg",
+    "tags": [
+        "buildings",
+        "energy",
+        "have api",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tendril\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Tendril",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/257-tendril.jpg",
+            "humanURL": "http:\/\/www.tendrilinc.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tendril-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tendril-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/dpu-ten-web.tendril-connect.com\/api\/rest\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.tendrilinc.com\/news-room\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.tendrilinc.com\/about-us\/news-room\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tendril"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tendril"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.tendrilinc.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/tendril"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mintendrileful"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Tendril"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tendrilinc.com\/"
+        }
+    ]
+}
